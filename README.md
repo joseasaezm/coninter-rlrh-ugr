@@ -11,4 +11,4 @@ Los materiales de este repositorio han sido elaborados en el marco del **Proyect
 
 ## Licencia
 
-Todos los materiales de este repositorio están publicados bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**, lo que permite su uso, copia, distribución y adaptación siempre que se cite correctamente a los autores. Más información en: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Todos los materiales de este repositorio están publicados bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**, lo que permite su uso, copia, distribución y adaptación siempre que se cite correctamente a los autores. Más información en: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">https://creativecommons.org/licenses/by/4.0/</a>

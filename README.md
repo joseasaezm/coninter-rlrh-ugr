@@ -7,7 +7,7 @@ Los materiales de este repositorio han sido elaborados en el marco del **Proyect
 ## Materiales incluidos
 
 - `Banco_Preguntas.xlsx` — Banco de 270 preguntas tipo test de la asignatura, distribuidas en 9 niveles (30 preguntas por nivel), cada una con 4 opciones de respuesta e indicada la correcta.
-- `Presentacion.pdf` — Presentación interactiva utilizada durante el concurso.
+- `Presentacion.pdf` — Presentación informativa que explica las reglas, dinámica y puntuación del concurso.
 - `Registro_Participacion.pdf` — Hoja de registro de participación y resultados del concurso, para completar durante la actividad.
 
 ## Licencia

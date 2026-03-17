@@ -8,6 +8,7 @@ Los materiales de este repositorio han sido elaborados en el marco del **Proyect
 
 - `Banco_Preguntas.xlsx` — Banco de preguntas tipo test organizado por tema y nivel de dificultad.
 - `Presentacion.pdf` — Presentación interactiva utilizada en la sesión del concurso.
+- `Registro_Participacion.pdf` — Hoja de registro de participación y resultados del concurso, para completar durante la actividad.
 
 ## Licencia
 

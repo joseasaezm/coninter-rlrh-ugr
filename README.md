@@ -1,2 +1,16 @@
 # coninter-rlrh-ugr
-Repositorio con materiales y recursos para el concurso interactivo de Estadística en el Grado de Relaciones Laborales y Recursos Humanos de la UGR
+
+Repositorio con materiales y recursos asociados al **concurso interactivo de Estadística** del Grado en Relaciones Laborales y Recursos Humanos de la Universidad de Granada. Este repositorio contiene los ficheros que se utilizaron en la actividad y sirve como referencia de los materiales finales del proyecto.
+
+Este documento ha sido elaborado en el marco del **Proyecto de Innovación y Buenas Prácticas Docentes** titulado «Concurso interactivo para la consolidación de conceptos clave de Estadística en el Grado de RRLL y RRHH» (referencia 25-87), financiado por la Universidad de Granada en la convocatoria 2025-2026 del Plan AcademiaUGR.
+
+## Ficheros subidos hasta ahora
+
+- `Banco_Preguntas.xlsx` — Banco de preguntas tipo test organizado por tema y nivel de dificultad.  
+- `Presentacion.pdf` — Presentación interactiva utilizada en la sesión del concurso.  
+
+*(Se irán añadiendo más ficheros del proyecto a medida que estén disponibles, incluyendo instrucciones, plantillas y otros recursos complementarios.)*
+
+## Licencia
+
+Todos los materiales de este repositorio están publicados bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**, lo que permite su uso, copia, distribución y adaptación siempre que se cite correctamente a los autores. Para más información, consulta: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)

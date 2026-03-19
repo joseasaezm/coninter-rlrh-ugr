@@ -1,0 +1,271 @@
+Nivel	Pregunta	OpA	OpB	OpC	OpD	Correcta
+1	¿Cuál es el objetivo principal de la estadística?	Resolver ecuaciones algebraicas	Calcular derivadas e integrales	Crear gráficos complejos	Resumir, analizar e interpretar datos	OpD
+1	¿Qué rama de la estadística representa y describe los datos?	Modelos probabilísticos	Estadística inferencial	Análisis de regresión	Estadística descriptiva	OpD
+1	En estadística, ¿qué es una población?	Características que se estudian	Subconjunto de los elementos del estudio	Grupo de individuos seleccionados para el análisis	Conjunto de todos los elementos del estudio	OpD
+1	¿Qué es una muestra en un estudio estadístico?	Conjunto completo de individuos	Fase del análisis estadístico	Subconjunto de la población	Tipo de variable	OpC
+1	¿Cómo se llama cada elemento de una población o muestra?	Variable	Propiedad	Característica	Individuo	OpD
+1	¿Qué representa P(A)?	La media de un conjunto de datos	La varianza del experimento	El número total de resultados	La probabilidad de que ocurra el evento A	OpD
+1	¿Entre qué valores puede estar una probabilidad?	Entre -1 y 1	Entre 0 y 100	Entre 0 y 1	Cualquier número real	OpC
+1	¿Cuál es la función de los gráficos en el análisis estadístico?	Facilitar la interpretación visual y de tendencias	Hacer cálculos complejos más fáciles	Sustituir cálculos matemáticos	Simplificar datos sin perder información	OpA
+1	La suma de las probabilidades de todos los resultados posibles en un experimento es:	0	0.5	1	Depende del experimento	OpC
+1	¿Cuál de los siguientes valores NO puede ser una probabilidad?	0.3	1	-0.2	0.75	OpC
+1	Si un evento es imposible, su probabilidad es:	1	-1	0.5	0	OpD
+1	Si un evento es seguro, su probabilidad es:	0	0.5	1	Depende del experimento	OpC
+1	¿Cómo contribuye la estadística a la toma de decisiones?	Sustituyendo completamente el juicio humano	Simplificando los cálculos matemáticos	Eliminando la necesidad de recolectar datos	Proporcionando evidencia cuantitativa para respaldar decisiones	OpD
+1	¿Qué es una variable estadística?	Característica estudiada en los individuos	Conjunto de individuos del estudio	Tipo de gráfico	Herramienta de análisis de datos	OpA
+1	¿Podemos medir varias variables por individuo en estadística?	No, solo se puede medir una variable por individuo	Sí, es posible medir varias variables por cada individuo	Solo si las variables son cualitativas	Solo si las variables son discretas	OpB
+1	En planificación del mercado laboral, una población envejecida indica:	Más demanda en tecnología	Más trabajadores en salud	Más trabajadores en industria pesada	Ningún cambio	OpB
+1	Una población con aumento de jóvenes implica:	Más demanda en tecnología	Más demanda en salud	Más demanda en pensiones	Menos trabajadores disponibles	OpA
+1	Si no podemos estudiar a toda la población, recurrimos a:	Tomar una muestra	Eliminar datos	Abandonar el estudio estadístico	Siempre puede estudiarse toda la población	OpA
+1	La planificación de recursos humanos basada en demografía permite:	Adaptar la contratación y formación según la población disponible	Incrementar automáticamente los sueldos	Aumentar los beneficios sin límite	Reducir la diversidad en la empresa	OpA
+1	El número de llamadas recibidas en una empresa es una variable:	Discreta	Continua	Constante	Imposible de medir	OpA
+1	¿Qué estudia la demografía?	El comportamiento individual de cada persona	La población humana en tamaño, estructura y evolución	Los ingresos de una empresa	La estadística financiera	OpB
+1	La duración de una reunión (en minutos con decimales) es una variable:	Continua	Discreta	Cualitativa	Nominal	OpA
+1	Al lanzar una moneda equilibrada, ¿cuál es la probabilidad de cara?	0.25	0.5	1	0	OpB
+1	¿Qué tipo de variable es el número de hijos de una familia?	Cualitativa	Cuantitativa discreta	Cuantitativa continua	Mixta	OpB
+1	¿Cuál de los siguientes valores puede ser una probabilidad?	0.95	95	-0.95	9.5	OpA
+1	¿Cuál de las siguientes es una variable cualitativa?	Altura	Número de hijos	Color de ojos	Edad	OpC
+1	¿Qué es la moda?	Valor más bajo	Valor que más se repite	Valor que divide los datos en dos partes iguales	Promedio de todos los valores	OpB
+1	¿Cuál de los siguientes es un dato estadístico utilizado para analizar la actividad de una empresa?	El color favorito del jefe	El número de empleados contratados cada mes	El nombre de la mascota de la oficina	La temperatura del 1 de enero de 2000	OpB
+1	En demografía, ¿qué significa natalidad?	El número de personas que se jubilan	El número de personas que mueren	El número de nacimientos en una población	El número de personas que se mudan de ciudad	OpC
+1	¿Qué es la mortalidad en un estudio de población?	El estudio de las bodas	El registro de las defunciones	El cálculo de los salarios	La cantidad de jóvenes que estudian	OpB
+2	¿Cómo se llama la distribución que estudia dos variables?	Distribución normal	Distribución unidimensional	Distribución de frecuencias simples	Distribución bidimensional	OpD
+2	¿Qué medida divide los datos en cuatro partes iguales?	Mediana	Percentil	Decil	Cuartil	OpD
+2	¿Qué medida divide los datos en diez partes iguales?	Percentil	Cuartil	Decil	Moda	OpC
+2	¿Qué mide el rango en un conjunto de datos?	Dispersión respecto a la media	Valor promedio	Cantidad de valores sobre la media	Diferencia entre valor máximo y mínimo	OpD
+2	¿Qué herramienta permite analizar la mortalidad de una población a lo largo del tiempo?	Censo poblacional	Calendario laboral	Informe de productividad	Tabla de mortalidad	OpD
+2	¿Cómo representar la relación entre dos variables?	Histograma	Nube de puntos	Gráfico de barras	Gráfico de sectores	OpB
+2	¿Para qué sirve conocer la relación entre dos variables?	Garantizar que no haya valores atípicos	Eliminar una variable del estudio automáticamente	Cambiar los datos de lugar en la tabla	Predecir una variable a partir de la otra	OpD
+2	¿Qué opción describe mejor una variable cualitativa?	Variable que toma valores numéricos enteros	Variable que representa categorías	Variable que toma valores decimales	Variable que solo puede tomar un valor fijo	OpB
+2	¿Qué característica define una variable cuantitativa continua?	Solo toma valores enteros y contables	Limitada a un número específico de categorías	Toma cualquier valor dentro de un intervalo real	Toma valores no numéricos como sí o no	OpC
+2	¿Qué tipo de variable se presenta más en tablas agrupadas por intervalos?	Cualitativa	Cuantitativa discreta	Cuantitativa continua	Mixta	OpC
+2	¿Qué gráfico conviene para una variable cuantitativa continua?	Gráfico de barras	Gráfico de volúmenes	Histograma	Gráfico de sectores	OpC
+2	¿Qué es la mediana?	Promedio de todos los valores	Valor que más se repite	Valor central en datos ordenados	Valor más alto	OpC
+2	¿Cuál es el objetivo principal de la estimación de parámetros?	Calcular todos los valores individuales	Modificar la población	Eliminar el error muestral	Estimar un parámetro desconocido de la población	OpD
+2	Si la probabilidad de que no ocurra A es 0.2, ¿cuánto vale P(A)?	8	0.08	0.2	0.8	OpD
+2	¿Qué indica una relación lineal en la nube de puntos?	Los puntos se agrupan en torno a una línea recta	Puntos distribuidos aleatoriamente	Los puntos forman una curva parabólica	Puntos concentrados en los bordes	OpA
+2	Si P(A) = 0.7, ¿cuánto vale la probabilidad de que no ocurra A?	0.3	0.7	1.7	0	OpA
+2	¿Qué muestra la nube de puntos de X e Y?	Relación entre las variables y distribución de los datos	Solo el valor medio de X e Y	Varianza de X e Y	Coeficiente de regresión entre X e Y	OpA
+2	Si el 90% de los empleados llega puntual, ¿cuál es P(puntual)?	0.1	0.9	0.5	0.8	OpB
+2	¿Cuál es un aspecto fundamental de la demografía?	Estructura del gobierno	Tamaño de la población	Política laboral	Ingresos medios	OpB
+2	¿Cuál de las siguientes es una medida de dispersión?	Percentil	Media	Cuartil	Coeficiente de variación	OpD
+2	¿Cuál es la principal ventaja del diagrama de Lexis?	Visualizar edad y tiempo simultáneamente	Calcular tasas de natalidad exactas	Registrar solo emigraciones	Visualizar crecimiento poblacional neto	OpA
+2	¿Cuál de las siguientes NO es una medida de posición central?	Rango	Mediana	Moda	Media	OpA
+2	¿Qué medida divide los datos en cien partes iguales?	Porcentil	Porcientil	Percentil	Parcentil	OpC
+2	¿Qué indica la desviación típica?	Valor máximo de los datos	Cuán dispersos están los datos respecto a la media	Promedio de todos los valores	Cantidad de valores debajo de la media	OpB
+2	¿Qué es la inferencia estadística?	Describir únicamente una muestra	Obtener conclusiones sobre una población a partir de una muestra	Calcular la varianza poblacional	Representar datos en un gráfico	OpB
+2	Si el nivel de confianza es 95%, ¿cuánto es el nivel de significación?	0.95	0.1	0.05	0.025	OpC
+2	¿Cómo se crea la tabla de frecuencias de una variable discreta?	Valores colocados de forma aleatoria	Valores ordenados de menor a mayor	Valores ordenados según frecuencia creciente	Valores ordenados según frecuencia decreciente	OpB
+2	¿Cuál de las siguientes NO es una medida de posición?	Varianza	Percentil	Cuartil	Decil	OpA
+2	¿Qué propósito principal tiene la regresión?	Estudiar la relación entre variables para hacer predicciones	Analizar el comportamiento aleatorio de las variables	Medir la dispersión de las variables en conjunto	Estudiar si las variables son representativas	OpA
+2	¿Cuál de las siguientes es una medida de dispersión?	Media aritmética	Moda	Desviación típica	Mediana	OpC
+3	En inferencia estadística, los parámetros poblacionales son:	Conocidos y fijos	Iguales a los estadísticos	Aleatorios y observables	Desconocidos y se estiman	OpD
+3	¿Qué es una variable aleatoria?	Una constante matemática	Un dato ya observado y registrado	Una característica cuyo valor aún no conocemos pero tiene probabilidades asociadas	Una media muestral	OpC
+3	¿Qué indica una varianza alta en un conjunto de datos?	Todos los datos cerca del máximo	Datos muy similares entre sí	Datos dispersos alrededor de la media	Todos los datos iguales	OpC
+3	En un contraste de hipótesis, H0 representa:	La hipótesis nula	La hipótesis retroactiva	La hipótesis alternativa	La conclusión final	OpA
+3	¿Qué representa la tabla de frecuencias?	Promedio de frecuencias de cada categoría	Número total de observaciones	Cantidad de veces que aparece cada valor	Número de categorías únicas	OpC
+3	¿Qué característica principal tiene un gráfico de sectores?	Muestra la frecuencia en barras	Representa datos numéricos continuos	Compara tamaños de categorías en distintas unidades	Muestra proporción de cada categoría respecto al total	OpD
+3	Si lanzamos un dado modificado con caras {1,1,1,2,2,3}, ¿cuál es la probabilidad de sacar un 1?	1/6	1/3	1/2	2/3	OpC
+3	¿Cuál es un ejemplo de variable aleatoria continua?	El número de caras al lanzar dos monedas	El número de empleados en una empresa	El salario mensual de un trabajador	El número de hijos por familia	OpC
+3	La evolución de la población considera:	La distribución de salarios	Solo el número de nacimientos	Nacimientos, defunciones y migraciones	La educación promedio	OpC
+3	¿Qué indica la frecuencia relativa de un valor?	La cantidad absoluta de veces que ocurre	La proporción del total que representa	El valor acumulado hasta ese punto	El promedio de los valores	OpB
+3	El crecimiento de la población se define como:	La cantidad de migraciones	Aumento de la natalidad	Disminución de la mortalidad	Variación en el tamaño de la población a lo largo del tiempo	OpD
+3	¿Qué representa el eje horizontal en un diagrama de Lexis?	Edad (años)	Tiempo (años)	Nacimientos	Defunciones	OpB
+3	En la ecuación compensadora, el crecimiento poblacional puede deberse a:	Migraciones y nacimientos	Inmigraciones y nacimientos	Emigraciones  y nacimientos	Solo nacimientos	OpB
+3	¿Qué es la densidad de datos de un intervalo?	La suma total de todos los datos	La frecuencia del intervalo dividida entre su amplitud	El valor más alto menos el más bajo	El porcentaje acumulado hasta ese intervalo	OpB
+3	Un modelo con buen ajuste y predicciones precisas tendrá:	Coeficiente de determinación negativo	Coeficiente de determinación cercano a 0	Coeficiente de determinación cercano a 0.5	Coeficiente de determinación cercano a 1	OpD
+3	¿Qué afirmación sobre el coeficiente de correlación es cierta?	Es igual a la pendiente de la recta de regresión	Varía entre -1 y 1	El valor -1 indica que no hay relación	Mide la varianza de la variable dependiente	OpB
+3	Una forma de calcular la probabilidad es:	Resultados totales entre favorables	Resultados favorables entre totales	Resultados totales menos favorables	Resultados favorables por totales	OpB
+3	¿Qué es el rango intercuartílico?	Diferencia entre valor máximo y mínimo	Diferencia entre Q3 y Q1	Diferencia entre media y mediana	Dispersión respecto a la media	OpB
+3	Puntos formando una recta ascendente en la nube de puntos indican:	El coeficiente de determinación es 0	Relación lineal inversa	No hay relación lineal	Relación lineal directa	OpD
+3	Dado el conjunto de datos {2, 4, 9}, ¿cuál es la mediana?	2	4	5	9	OpB
+3	En un histograma, ¿pueden las barras tener diferente anchura?	Sí, pero solo si la variable es discreta	No, todas las barras deben tener la misma anchura	Sí, para reflejar el tamaño distinto de cada intervalo	No, salvo que se trate de un gráfico de sectores	OpC
+3	¿Qué gráfico suele usarse con una variable discreta?	Gráfico de dispersión	Gráfico de cajas	Histograma	Gráfico de barras	OpD
+3	El crecimiento natural se calcula como:	Población Final - Población Inicial	Nacimientos + Defunciones	Inmigraciones - Emigraciones	Nacimientos - Defunciones	OpD
+3	El crecimiento migratorio se calcula como:	Inmigraciones - Emigraciones	Nacimientos - Defunciones	Población Final - Población Inicial	Población Inicial + Nacimientos	OpA
+3	Si Z~N(0,1) y P(Z>a)=0.4, ¿cuánto es P(Z<=a)?	0.6	0.5	0.4	0.3	OpA
+3	Si el coeficiente de variación es igual al 100%, esto significa que: (Fórmulas permitidas)	La desviación típica es igual a la media	La media es el doble de la desviación típica	La desviación típica es el doble de la media	La varianza es igual a la media	OpA
+3	En un diagrama de Lexis, ¿qué indica una línea de vida de 45°?	Trayectoria desde el nacimiento hasta la muerte	Edad exacta de una persona	Tasa de mortalidad	Nacimientos	OpA
+3	¿Qué representan las áreas o superficies en un diagrama de Lexis?	Defunciones de la población	Líneas de vida de supervivientes	Nacimientos	Tasas de natalidad	OpA
+3	En un diagrama de Lexis, una línea vertical indica:	Supervivientes en una fecha determinada	Defunciones en un año específico	Nacimientos en una generación	Migraciones netas	OpA
+3	En un diagrama de Lexis, una línea horizontal indica:	Supervivientes a una edad determinada	Crecimiento de población	Natalidad	Emigración	OpA
+4	¿Qué ventaja tiene un gráfico de barras para datos cualitativos?	Mostrar relación entre datos cuantitativos y cualitativos	Representar datos en 3D	Mostrar proporciones de cada valor numérico	Mostrar frecuencias de cada categoría	OpD
+4	¿Qué opción describe mejor una variable cuantitativa discreta?	Representa categorías sin orden	Representa categorías con orden	Toma valores continuos dentro de un rango	Toma valores enteros y contables	OpD
+4	¿Qué afirmación sobre los percentiles es correcta?	P75 = Q1	P50 = Q1	P25 = Q1	P1 = Q25	OpC
+4	¿Qué porcentaje de datos supera el tercer cuartil (Q3)?	30%	75%	50%	25%	OpD
+4	¿Qué se busca al aplicar regresión lineal a unos datos?	Encontrar la media de los datos	Encontrar la curva que mejor ajuste los datos	Encontrar la recta que mejor ajuste los datos	Minimizar el coeficiente de correlación	OpC
+4	¿Qué permite analizar tener dos variables por individuo?	Ignorar una variable y enfocarse en la otra	Determinar solamente la media de la primera variable	Estudiar si existe relación entre las variables	Calcular únicamente la desviación típica de ambas variables por separado	OpC
+4	¿Qué ocurre si el coeficiente de correlación es -1?	No es posible que el coeficiente de correlación sea -1	No existe relación lineal entre variables	Relación lineal perfecta e inversa entre variables	Relación lineal perfecta y directa entre variables	OpC
+4	En un intervalo del 95% para la proporción, el nivel de significación es:	0.95	0.025	0.1	0.05	OpD
+4	El objetivo principal del contraste de hipótesis es:	Estimar un intervalo	Calcular la varianza	Decidir si hay evidencia contra H0	Reducir el tamaño muestral	OpC
+4	La ecuación compensadora se utiliza para:	Estimar el PIB por persona	Calcular únicamente la natalidad	Calcular la población final a partir de los cambios demográficos ocurridos durante un periodo	Medir el crecimiento económico	OpC
+4	La tasa bruta de natalidad se calcula como:	Población total / Nacimientos	Población media / Nacimientos	Nacimientos / Población total	Nacimientos / Población media	OpD
+4	Las tasas brutas se expresan comúnmente en:	Tanto por mil	Porcentaje	Índice quinquenal	Tanto por cien mil	OpA
+4	El coeficiente de correlación mide:	Dispersión de una variable	Tendencia central	Relación lineal entre dos variables	Desviación estándar	OpC
+4	¿Qué es un residuo (error) en un modelo de regresión?	El valor predicho por el modelo	El coeficiente de correlación	La pendiente de la recta	La diferencia entre el valor observado y el predicho	OpD
+4	¿Qué es un experimento aleatorio?	Un proceso cuyo resultado se conoce con certeza	Un proceso repetible cuyo resultado no se puede predecir con certeza	Un experimento que solo se realiza una vez	Un cálculo matemático exacto	OpB
+4	Si de 150 productos 30 tienen fallos, ¿cuál es la probabilidad de fallo? (Calculadora permitida)	0.1	0.2	0.3	0.25	OpB
+4	En X~P(4), ¿cuánto es Var(X)? (Fórmulas permitidas)	16	2	4	8	OpC
+4	¿Qué afirmación sobre los percentiles es correcta?	Son medidas de posición	El percentil 50 es igual a la media	Son útiles solo en datos cualitativos	El percentil 5 es igual a la mediana	OpA
+4	En la regresión y = ax + b, ¿qué son a y b?	a es la pendiente y b el término independiente	a es el término independiente y b la pendiente	a es la variable independiente y b la dependiente	a es la variable dependiente y b la independiente	OpA
+4	Medidas más usadas para resumir una variable cuantitativa:	Mediana y varianza	Rango y desviación típica	Media y varianza	Media y desviación típica	OpD
+4	Variable en el eje vertical de una nube de puntos:	La variable dependiente	La variable independiente	La variable con mayor dispersión	La media de las variables	OpA
+4	El modelo malthusiano es más útil para escenarios:	A corto plazo y sin limitaciones	A largo plazo y con recursos limitados	A largo plazo y sin limitaciones	A corto plazo y con recursos limitados	OpA
+4	Variable en el eje horizontal de una nube de puntos:	La variable dependiente	La variable independiente	La variable con mayor dispersión	La media de las variables	OpB
+4	Un intervalo de confianza siempre va acompañado de:	Una hipótesis nula	Un nivel de confianza	Un valor máximo	Una media poblacional conocida	OpB
+4	¿Qué afirmación sobre los percentiles es correcta?	P30 = D3	P5 = Me	P6 = D60	P75 = Q1	OpA
+4	¿Cómo afecta un valor extremadamente grande a la media?	Se reduce drásticamente	Se incrementa drásticamente	Permanece igual	Se convierte en la mediana	OpB
+4	¿Entre qué valores están el 20 por ciento de los datos más pequeños?	Entre P20 y P80	Entre el valor mínimo y P20	Entre el valor mínimo y P80	Entre el valor máximo y P20	OpB
+4	¿Qué ocurre si el coeficiente de correlación es 0?	No existe relación lineal entre las variables	Relación lineal perfecta y directa entre variables	Relación lineal perfecta e inversa entre variables	La pendiente de la recta es 1	OpA
+4	¿Cuándo se utiliza principalmente la estadística descriptiva?	Antes de recolectar datos, para diseñar el estudio	Después de recolectar los datos, para organizarlos y resumirlos	Para realizar inferencias sobre toda la población	Para tomar decisiones sin analizar datos	OpB
+4	La tasa bruta de mortalidad se obtiene dividiendo:	Emigraciones / Población inicial	Nacimientos / Población final	Inmigraciones / Población inicial	Defunciones / Población media	OpD
+5	Si un administrativo comete en promedio 0.6 errores diarios, ¿qué representa esto?	La mediana de errores	La varianza de errores	La esperanza de errores	El número máximo de errores	OpC
+5	Si X toma los valores 0, 1, 2 y 3, ¿qué valores se incluyen en P(X<2)? 	2 y 3	1 y 2	0 y 1	0, 2 y 3	OpC
+5	La probabilidad de que una variable aleatoria discreta tome valores específicos se llama:	Frecuencia relativa	Esperanza	Varianza	Función de probabilidad	OpD
+5	¿Cuál es la utilidad principal de una tabla de mortalidad en RRHH?	Medir productividad	Calcular salarios totales	Registrar asistencia laboral	Planificar pensiones y beneficios laborales	OpD
+5	Si queremos estimar la media poblacional, ¿qué estadístico usamos habitualmente?	La varianza muestral	La proporción muestral	La media muestral	El tamaño muestral	OpC
+5	Si la media muestral es 100 y el margen de error es 10, ¿cuál es el limite inferior de IC de la media?	90	100	110	80	OpA
+5	El análisis de la población según edad y sexo se llama:	Densidad	Tamaño	Evolución	Estructura	OpD
+5	Medida de posición central usada con variables cualitativas:	Media	Mediana	Rango	Moda	OpD
+5	Un modelo de regresión lineal simple tiene:	Una variable dependiente y una independiente	Dos variables independientes	Solo variables cualitativas	Tres parámetros siempre	OpA
+5	Si P0 = 5000 y Pt = 5050, la población media durante el periodo es:	5025	5050	5000	5100	OpA
+5	En estimación puntual se obtiene:	Un intervalo de valores	Una hipótesis alternativa	Una distribución completa	Un único valor estimado	OpD
+5	La estimación por intervalo proporciona:	Un valor exacto sin error	Un rango donde puede estar el parámetro	Un tamaño muestral mayor	Un contraste definitivo	OpB
+5	El contraste de hipótesis se utiliza para:	Estimar un intervalo	Calcular la media muestral	Comprobar si una afirmación sobre un parámetro es compatible con la muestra	Aumentar el tamaño de la población	OpC
+5	La demografía permite prever:	Salarios exactos de cada trabajador	Disponibilidad futura de mano de obra	Productividad individual	Crecimiento económico mundial	OpB
+5	Si el tamaño muestral es 20, los grados de libertad de la t de Student son:	20	21	19	18	OpC
+5	Si el error es 100 y la media muestral es 1500, la amplitud total del IC de la media es:	100	200	1500	1600	OpB
+5	Si una población disminuye, su tasa de crecimiento continua es:	Positiva	Negativa	Cero	Indeterminada	OpB
+5	Si en una muestra de 200 personas hay 50 éxitos, la proporción muestral es: (Calculadora permitida)	0.25	0.5	0.75	4	OpA
+5	Si el error es 0.05 y la proporción muestral es 0.70, el límite superior del IC es:	0.65	0.75	0.7	0.05	OpB
+5	¿Qué afirmación sobre la moda es correcta?	Puede haber más de una moda	Está en el centro exacto del conjunto de datos	No es muy relevante en estadística	Siempre es igual a la mediana	OpA
+5	Medida de dispersión usada con variables cualitativas:	Rango	Rango intercuartílico	Varianza	Ninguna de las anteriores	OpD
+5	Objetivo de los mínimos cuadrados en regresión lineal:	Minimizar el coeficiente de correlación	Maximizar la varianza de la variable independiente	Encontrar la media de los datos	Minimizar la suma de diferencias cuadradas entre valores observados y predichos	OpD
+5	Si P0 = 1000, N = 50, D = 20, I = 10 y E = 5, la población final Pt es: (Fórmulas/Calculadora permitidas)	1035	1030	1050	1020	OpA
+5	En regresión lineal, ¿qué representa la pendiente?	Valor de la variable dependiente cuando la independiente es cero	Cambio en la variable independiente por unidad de cambio en la dependiente	Cambio en la variable dependiente por unidad de cambio en la independiente	Variabilidad de los datos alrededor de la recta	OpC
+5	Afirmación correcta sobre el coeficiente de variación:	Compara varianza y desviación	Se expresa en la misma unidad que los datos	No tiene unidades	Es igual a la mediana	OpC
+5	Si una persona con 10 años tiene una esperanza de vida de 5 años, ¿hasta qué edad se espera que viva?	15 años	10 años	5 años	20 años	OpA
+5	En un diagrama de Lexis, ¿cómo se distinguen los nacimientos de una generación?	Líneas horizontales en la edad 0 años	Áreas sombreadas	Intersección de líneas de vida	Movimientos migratorios	OpA
+5	Si X toma los valores 1, 4, 5 y 6, ¿qué valores se incluyen en P(X>1)? 	Desde 1 hasta infinito	Solo 4, 5 y 6	Desde 1 hasta 6	Solo 5 y 6	OpB
+5	¿Qué indica una frecuencia relativa acumulada de 0.25 para 4 hijos?	Que el 25% de las familias tiene exactamente 4 hijos	Que el 25% de las familias tiene 4 hijos o menos	Que hay 25 familias con más de 4 hijos	Que el valor 4 aparece 25 veces en la muestra	OpB
+5	Que una media sea más representativa de sus datos implica:	Que la media siempre sea mayor que la mediana	Que la dispersión de los datos sea menor	Que el valor máximo y mínimo son muy diferentes	Que existen valores extremos	OpB
+6	Una empresa que usa datos demográficos para planificar la formación debe considerar:	Edad, capacidades y diversidad de sus empleados	La edad promedio de los empleados	Solo la experiencia laboral de los empleados	Especialmente el género de los empleados	OpA
+6	¿Cuándo suele ser más fiable una predicción con una recta de regresión?	Siempre es fiable, sin importar los datos	Cuando el coeficiente de correlación es 0	Cuando el coeficiente de determinación es alto	Con valores extremadamente altos o bajos	OpC
+6	¿Para qué sirven las medidas de posición central?	Calcular la dispersión de los datos	Identificar valores extremos en los datos	Describen la distribución de los datos en intervalos	Resumir los datos en un valor representativo	OpD
+6	¿Qué indican las medidas de posición no central?	Dispersión de los datos	Valor representativo que resume los datos	Valor que ocupa una posición en los datos ordenados	Comparación de la media con la mediana	OpC
+6	¿Qué indica un coeficiente de determinación de 0.95 en un modelo de regresión lineal?	Explica el 95% de la variabilidad de la variable dependiente	El modelo no es bueno, porque debería ser 1	Explica el 95% de la variabilidad de la variable independiente	Explica el 5% de la variabilidad de la variable dependiente	OpA
+6	¿Qué indica que un conjunto de datos tenga P25 = 90?	25 por ciento de los datos menor o igual que 10	90 por ciento de los datos menor o igual que 25	25 por ciento de los datos menor o igual que 90	10 por ciento de los datos menor o igual que 25	OpC
+6	La media de un conjunto de datos puede interpretarse como:	La dispersión de los datos	El valor que más se repite	La diferencia entre el valor máximo y mínimo	El punto de equilibrio de los valores	OpD
+6	El signo del coeficiente de correlación coincide siempre con:	El signo de la pendiente de la recta de regresión	El signo del término independiente	El signo del coeficiente de determinación	El signo de la media de la variable independiente	OpA
+6	Una variable observada es aquella:	Cuyo valor todavía no se conoce	Cuya probabilidad es 0.5	Cuyo valor ya se ha registrado	Que siempre es continua	OpC
+6	Antes de lanzar un dado, el resultado es:	Una variable observada	Una variable aleatoria discreta	Una variable continua	Un valor fijo conocido	OpB
+6	¿Qué característica define un modelo binomial?	Se aplica a cualquier variable discreta	Se aplica solo a variables continuas	Se cuentan eventos en un tiempo fijo	Se cuentan los éxitos en un número fijo de pruebas	OpD
+6	¿Qué representa la media en una distribución normal?	El centro de la curva	La altura máxima	El ancho de la curva	El percentil 25	OpA
+6	¿Qué implica una correlación r = 0.2 entre dos variables?	Relación fuerte e inversa	Relación fuerte y directa	Relación débil e inversa	Relación débil y directa	OpD
+6	¿Por qué se agrupan los datos en la tabla de frecuencias de una variable continua?	Se desea reducir el tamaño de la muestra	Los valores continuos se repiten con frecuencia alta	Cada valor puede tener frecuencia 1 y la tabla no sería útil	Se eliminan los valores extremos automáticamente	OpC
+6	Diferencia principal entre varianza y desviación típica:	La desviación típica está en unidades al cuadrado	La desviación típica es más difícil de interpretar	La varianza es más precisa	La varianza está en unidades al cuadrado	OpD
+6	¿Qué indica que un conjunto de datos tenga P90 = 25?	25 por ciento de los datos menor o igual que 10	25 por ciento de los datos menor o igual que 90	90 por ciento de los datos menor o igual que 25	10 por ciento de los datos menor o igual que 25	OpC
+6	En un conjunto de datos, ¿qué representa el decil 6 (D6)?	Valor máximo del 40 por ciento más pequeño	Divide el 40 por ciento más pequeño del 60 por ciento más grande	Valor máximo del 60 por ciento más grande	Divide el 60 por ciento más pequeño del 40 por ciento más grande	OpD
+6	¿Cuál es la interpretación del rango intercuartílico?	Tamaño que ocupan todos los datos	Número de datos que ocupan el 50% central	Suma de todos los valores	Tamaño que ocupa el 50% central de los datos	OpD
+6	La media muestral es un ejemplo de:	Parámetro poblacional	Estimador puntual	Intervalo de confianza	Contraste de hipótesis	OpB
+6	¿Cuándo es más interesante emplear el CV?	Comparar conjuntos de datos cualitativos	Comparar conjuntos de datos cuantitativos con unidades diferentes	Comparar conjuntos de datos binomiales	Comparar conjuntos de datos ordinales	OpB
+6	En un IC para la media poblacional, el centro del intervalo es:	La desviación típica	La media poblacional	La media muestral	El nivel de confianza	OpC
+6	¿Qué valor coincide con la mediana?	Percentil 5	Decil 5	Cuartil 5	Media	OpB
+6	¿Para qué sirve un intervalo de confianza para la media poblacional?	Calcular la varianza muestral	Estimar un rango donde puede estar la media poblacional	Determinar el tamaño de la población	Eliminar el error muestral	OpB
+6	Si la recta de regresión es y = -2x + 5 , ¿qué valor de y se predice para x = 3?	11	-1	10	0	OpB
+6	¿Qué representa el término independiente b en y = ax + b?	La pendiente de la recta	El valor de y cuando x = 0	El valor promedio de x	La suma de los residuos	OpB
+6	¿Qué significa un cociente de mortalidad igual a 1 en un intervalo de edad?	Toda la población muere en ese intervalo	Nadie muere en ese intervalo	La mitad de la población muere	Tasa de natalidad máxima	OpA
+6	Valor máximo dentro del 60% de los valores más pequeños:	Q60	Q3	P40	D6	OpD
+6	Dado el conjunto de datos {3, 5, 7, 9}, ¿cuál es la mediana?	3	5	6	No puede calcularse	OpC
+6	¿Qué implica una correlación r = -0.8 entre dos variables?	Relación fuerte e inversa	Relación fuerte y directa	Relación débil e inversa	Relación débil y directa	OpA
+6	Si una muestra tiene media 50 y varianza 25, ¿cuál es el coeficiente de variación? (Fórmulas/Calculadora permitidas)	10%	50%	20%	25%	OpA
+7	Si la desviación típica poblacional es desconocida, ¿qué distribución se utiliza para el cálculo del IC de la media?	Distribución binomial	Distribución t de Student	Distribución normal estándar	Distribución exponencial	OpB
+7	Si una población tiene 5000 nacimientos y una población media de 200 000 personas, la tasa bruta de natalidad es: (Calculadora permitida)	5 por mil	2.5 por mil	50 por mil	25 por mil	OpD
+7	Un intervalo de confianza se construye como:	Error / Tamaño muestral	Media poblacional + Varianza	Estimación puntual +- margen de error	Valor crítico + Media poblacional	OpC
+7	Una fuente de datos de nacimientos y defunciones son:	Encuestas laborales	Padrones municipales	Registros civiles	Censos internacionales	OpC
+7	Si el IC al 95% para la media es [10, 20], ¿qué ocurre con la hipótesis de que la media es 25?	Se acepta con nivel de significación 0.05	Se acepta con nivel de significación 0.95	Se rechaza con nivel de significación 0.05	Se rechaza con nivel de significación 0.95	OpC
+7	Si el intervalo es [48,52], ¿cuál es la media muestral?	48	52	50	4	OpC
+7	Si el margen de error es muy pequeño en un IC, ¿qué indica?	Muestra más pequeña	Menor confianza del IC	Mayor precisión del IC	Mayor variabilidad	OpC
+7	Si una población tiene un crecimiento natural de 100 y un saldo migratorio de -100, ¿qué ocurre? (Fórmulas permitidas)	La población aumenta	La población no varía	La población disminuye	El saldo migratorio no puede ser negativo	OpB
+7	Si una población tiene un crecimiento natural de 200 y un saldo migratorio de -300, ¿qué ocurre? (Fórmulas permitidas)	La población crece en 100	La población decrece en 100	La población se mantiene igual	La población crece en 500	OpB
+7	¿Qué mide el coeficiente de determinación?	La fuerza de la relación entre variables	La pendiente de la recta	El error típico de la media	La bondad del ajuste del modelo	OpD
+7	¿Qué afirmación sobre el coeficiente de correlación es correcta?	-1 indica correlación perfecta y directa entre variables	0 indica correlación perfecta e inversa entre variables	No puede ser negativo	Si es positivo, las variables cambian en igual sentido	OpD
+7	En un IC para la media con desviación típica poblacional desconocida, el error depende de: (Fórmulas permitidas)	La media poblacional	La cuasidesviación típica y n	Solo del tamaño muestral	Solo del nivel de confianza	OpB
+7	El estadístico de contraste es un valor que se calcula…	A partir de la media poblacional	A partir de los datos de la muestra	Antes de recoger los datos	Solo si el contraste es unilateral	OpB
+7	En una distribución normal, ¿qué ocurre si la desviación típica aumenta?	La curva se hace más alta y estrecha	La curva se desplaza a la derecha	La curva se hace más baja y ancha	La curva no cambia de forma	OpC
+7	Un nivel de significación muy pequeño:	Aumenta la probabilidad de rechazar H0	Disminuye la probabilidad de rechazar H0 	Siempre debe ser lo más alto posible para aumentar la precisión	Disminuye el nivel de confianza	OpB
+7	En el diagrama de Lexis, ¿qué representa el grupo de personas nacidas en el mismo año?	Un periodo	Una tasa de mortalidad	Un censo	Una generación	OpD
+7	Si en una empresa la tasa de rotación de personal es muy alta, lo más probable es que:	Mediana de sueldos alta	Empleados con diferente antigüedad	Media de antigüedad alta	Media de antigüedad baja	OpD
+7	¿Qué significa un nivel de confianza del 95%?	Que el parámetro es seguro	Que el 95% de los intervalos construidos contienen el parámetro	Que la muestra es el 95% de la población	Que no existe error	OpB
+7	En un contraste bilateral para la media, H1 indica que la media poblacional es:	Igual a un valor dado	Mayor que un valor dado	Menor que un valor dado	Diferente de un valor dado	OpD
+7	En un CH con H0: media <= un valor dado, la región de rechazo se sitúa:	En la cola izquierda	En ambas colas	En la cola derecha	En el centro	OpC
+7	Si el IC es de 1700 a 1900, la media muestral es:	1800	200	1900	1700	OpA
+7	Si una línea de vida termina dentro de un área sombreada, ¿qué indica esto?	Defunción del individuo en esa edad y año	Inmigración del individuo	Nacimiento del individuo	Supervivencia a edad avanzada	OpA
+7	Si se observa un gran número de áreas sombreadas para edades tempranas en un diagrama de Lexis, ¿qué significa?	Alta mortalidad infantil	Baja natalidad	Alta inmigración	Alta esperanza de vida	OpA
+7	Si se representan los nacimientos de 1985 en el diagrama de Lexis, ¿cómo se muestra?	Línea horizontal	Línea vertical	Área sombreada	Líneas diagonales	OpA
+7	Si P(estrés) = 0.3 y se seleccionan 4 empleados, ¿cuál es el número esperado con estrés? (Fórmulas/Calculadora permitidas)	1.2	1	0.9	1.5	OpA
+7	Si X~B(3,0.5), ¿cuál es la varianza? (Fórmulas/Calculadora permitidas)	0.75	0.5	1	0.25	OpA
+7	Si la tasa de llamadas por hora es 3, ¿cuál es lambda para media hora?	1.5	3	0.5	6	OpA
+7	Si X~Poisson con E[X] = 2, ¿cuál es el valor de la varianza? (Fórmulas permitidas)	2	1	3	0.5	OpA
+7	Si X~B(5,0.2), ¿cuál es el número esperado de éxitos? (Fórmulas/Calculadora permitidas)	0.2	0.5	5	1	OpD
+7	Si el valor experimental de un contraste está dentro de la región de rechazo, entonces:	No se rechaza H0	Se rechaza H0	Se acepta H1 automáticamente	No se puede concluir nada	OpB
+8	Si S40 = 450 y S60 = 200, ¿cuál es la probabilidad de sobrevivir de 40 a 60 años? (Calculadora permitida)	0.25	0.44	0.56	0.17	OpB
+8	Con S5 = 920 y S20 = 620, ¿cuál es la probabilidad de fallecer entre 5 y 20 años? (Calculadora permitida)	0.081	0.674	0.135	0.326	OpD
+8	En una variable aleatoria discreta, si P(X=2) = 0.2, P(X=3) = 0.3 y P(X=5) = 0.5, la probabilidad de X > 2 es:	0.3	0.5	1	0.8	OpD
+8	Si P(X=0) = 0.60, P(X=1) = 0.25, P(X=2) = 0.10, P(X=3) = 0.05, ¿cuánto es P(X<2)?	1	0.1	0.95	0.85	OpD
+8	Si una población pasa de 10 000 a 12 000 en 5 años, rc es: (Fórmulas/Calculadora permitidas)	0.082	0.041	0.036	0.057	OpC
+8	Si una población inicial es 500 y rc = 0.03 anual, ¿cuál será la población después de 10 años? (Fórmulas/Calculadora permitidas)	675	650	700	620	OpA
+8	Para rc = 0.02, el tiempo para duplicar la población es: (Fórmulas/Calculadora permitidas)	34.66 años	30.77 años	35.42 años	No se puede calcular	OpA
+8	Para rc = 0.01, el tiempo para reducir a la mitad la población es: (Fórmulas/Calculadora permitidas)	69.31 años	-69.31 años	56.89 años	No se puede calcular	OpD
+8	El fallo promedio de una máquina es 5 por día. ¿Qué distribución sigue el número de fallos?	Binomial	Poisson	Normal	Uniforme	OpB
+8	Se lanza una moneda 10 veces. ¿Qué distribución describe el número de caras?	Normal	Uniforme	Binomial	Poisson	OpC
+8	¿Entre qué dos valores está el 20% central de los datos?	Percentiles 0 y 20	Percentiles 20 y 50	Percentiles 20 y 80	Percentiles 40 y 60	OpD
+8	¿Qué valor es superado solo por el 20% de los datos?	Percentil 0.2	Percentil 8	Percentil 20	Percentil 80	OpD
+8	Si X~Poisson(9), su desviación típica es: (Fórmulas permitidas)	9	6	3	0	OpC
+8	Si la covarianza es 0, podemos afirmar que: (Fórmulas permitidas)	No existe relación entre variables	No existe relación lineal entre variables	Las variables son cualitativas	La media es 0	OpB
+8	¿Entre qué dos valores está el 40% central de los datos?	Mínimo y percentil 40	Percentiles 30 y 70	Percentil 60 y máximo	Percentiles 40 y 60	OpB
+8	¿Por qué la mediana no es sensible a valores extremos?	Porque considera solo valores centrales	Porque considera todos los valores para su cálculo	Porque ignora los valores centrales	Porque se calcula sumando el valor máximo y mínimo y dividiendo entre 2	OpA
+8	En una variable continua, ¿cuánto es P(X=x)?	0	Depende del valor	1	Se necesita saber cuánto vale x	OpA
+8	En el caso de desviación típica desconocida, la variabilidad poblacional se estima con:	La media muestral	La desviación típica poblacional	La cuasidesviación típica muestral	La desviación típica muestral	OpC
+8	No rechazar H0 implica que:	H0 es verdadera con seguridad	H1 es falsa	H0 es falsa	No hay evidencia suficiente para rechazar H0	OpD
+8	¿Puede ocurrir que el coeficiente de determinación sea igual al de correlación?	Solo cuando r < 0	Solo cuando r > 0	No, nunca pueden ser iguales	Sí, cuando r = 1 o r = 0	OpD
+8	Las medias muestrales se distribuyen:	Uniformemente	Según una distribución normal	Según una distribución binomial	Sin patrón definido	OpB
+8	El centro de la distribución de medias muestrales coincide con:	La desviación típica poblacional	El tamaño muestral	La media poblacional	El nivel de confianza	OpC
+8	Si f(x) es una función de densidad, ¿cuál es el área total bajo la curva?	1	0	100	Se necesita conocer la función de densidad	OpA
+8	¿Qué representa el área bajo la curva de una función de densidad de X en un intervalo?	La media de X en ese intervalo	La probabilidad de X en ese intervalo	La desviación típica de X en ese intervalo	El valor máximo de X en ese intervalo	OpB
+8	¿Qué medida de dispersión se ve afectada por valores atípicos?	Moda	Rango intercuartílico	Rango	Mediana	OpC
+8	Si la desviación típica es 0, significa que:	Todos los datos son iguales	Todos los datos son distintos	La media es 0	Hay un error en los cálculos	OpA
+8	Si un empleado tiene un índice tipificado Z = -1.25, ¿qué indica su posición respecto a la media del grupo?	Coincide con la media	Está por encima de la media	Está por debajo de la media	No se puede determinar	OpC
+8	Si aumenta la cuasidesviación típica muestral en un IC para la media, el margen de error: (Fórmulas permitidas)	Disminuye	Aumenta	No cambia	Se hace negativo	OpB
+8	¿Qué pasa con la amplitud de un IC para la media al aumentar el tamaño muestral? (Fórmulas permitidas)	Se vuelve más estrecho y preciso	Se vuelve más ancho	No cambia	Desaparece automáticamente	OpA
+8	Si aumenta el nivel de confianza, el intervalo: (Fórmulas permitidas)	Se hace más estrecho	Se mantiene igual	Se hace más amplio	Desaparece	OpC
+9	Si X~B(4,0.3), ¿cuánto es P(X=3)? (Tablas estadísticas permitidas)	0.9919	0.0756	0.0081	0.1245	OpB
+9	Si X~B(4,0.25), ¿cuánto es P(X=0)? (Tablas estadísticas permitidas)	0.1789	0.2527	0.4225	0.3164	OpD
+9	Si X~B(7,0.1), ¿cuánto es P(X=2)? (Tablas estadísticas permitidas)	0.4783	0.124	0.372	0.1496	OpB
+9	Si X~B(4,0.25), ¿cuánto es P(X<=1)? (Tablas estadísticas/Calculadora permitidas)	0.3169	0.7383	0.4222	0.2581	OpB
+9	Si X~B(2,0.5), ¿cuánto es P(X=2)? (Tablas estadísticas permitidas)	0.5	0.25	0.75	1	OpB
+9	Si X~B(6,0.3), ¿cuánto es P(X>4)? (Tablas estadísticas/Calculadora permitidas)	0.0429	0.0109	0.1891	0.8571	OpB
+9	Si X~B(9,0.5), ¿cuánto es P(X=5)? (Tablas estadísticas permitidas)	0.2051	0.2461	0.3001	0.5	OpB
+9	Si X~B(4,0.3), ¿cuánto es P(X>2)? (Tablas estadísticas/Calculadora permitidas)	0.0081	0.0756	0.0837	0.1587	OpC
+9	Si X~B(7,0.1), ¿cuánto es P(X<3)? (Tablas estadísticas/Calculadora permitidas)	0.1244	0.1496	0.9743	0.4783	OpC
+9	Si X~B(5,0.2), ¿cuánto es P(X<=2)? (Tablas estadísticas/Calculadora permitidas)	0.5125	0.2016	0.9421	0.3451	OpC
+9	Si X~Poisson(3), ¿cuánto es P(X=1)? (Tablas estadísticas permitidas)	0.7408	0.2222	0.1494	0.0498	OpC
+9	Si X~Poisson(2), ¿cuánto es P(X=0)? (Tablas estadísticas permitidas)	0.2707	0.1353	0.406	0.1954	OpB
+9	Si X~Poisson(3), ¿cuánto es P(X=3)? (Tablas estadísticas permitidas)	0.1494	0.224	0.5974	0.9502	OpB
+9	Si X~Poisson(1), ¿cuánto es P(X<=1)? (Tablas estadísticas/Calculadora permitidas)	0.2707	0.3679	0.7358	0.5	OpC
+9	Si X~Poisson(1.5), ¿cuánto es P(X=1)? (Tablas estadísticas permitidas)	0.251	0.2231	0.3347	0.1255	OpC
+9	Si X~Poisson(1.5), ¿cuánto es P(X>=2)? (Tablas estadísticas/Calculadora permitidas)	0.2231	0.5814	0.4422	0.1255	OpC
+9	Si X~Poisson(0.5), ¿cuánto es P(X=1)? (Tablas estadísticas permitidas)	0.5	0.6065	0.1839	0.3033	OpD
+9	Si X~Poisson(3), ¿cuánto es P(X>=1)? (Tablas estadísticas/Calculadora permitidas)	0.224	0.0498	0.5974	0.9502	OpD
+9	Si X~Poisson(3), ¿cuánto es P(1<=X<=3)? (Tablas estadísticas/Calculadora permitidas)	0.1494	0.9502	0.224	0.5974	OpD
+9	Si X~Poisson(1.5), ¿cuánto es P(X<=3)? (Tablas estadísticas/Calculadora permitidas)	0.9502	0.0186	0.5974	0.9343	OpD
+9	Si Z~N(0,1), ¿cuánto es P(Z>1.5)? (Tablas estadísticas/Calculadora permitidas)	0.1587	0.9332	0.8413	0.0668	OpD
+9	Si Z~N(0,1), ¿cuánto es P(Z<-1)? (Tablas estadísticas/Calculadora permitidas)	0.6826	0.8413	0.5	0.1587	OpD
+9	Si Z~N(0,1), ¿cuánto es P(Z>1.45)? (Tablas estadísticas/Calculadora permitidas)	0.0735	0.1151	0.8849	0.6826	OpA
+9	Si Z~N(0,1), ¿cuánto es P(Z>0.67)? (Tablas estadísticas/Calculadora permitidas)	0.2514	0.7486	0.1587	0.8413	OpA
+9	Si Z~N(0,1), ¿cuánto es P(Z> -0.8)? (Tablas estadísticas/Calculadora permitidas)	0.7881	0.2119	0.5	0.8413	OpA
+9	Si Z~N(0,1), ¿cuánto es P(Z<-1.96)? (Tablas estadísticas/Calculadora permitidas)	0.025	0.975	0.05	0.95	OpA
+9	Si Z~N(0,1), ¿cuánto es P(Z<-1.28)? (Tablas estadísticas/Calculadora permitidas)	0.1003	0.8997	0.2	0.05	OpA
+9	Si Z~N(0,1), ¿cuánto es P(Z>0.84)? (Tablas estadísticas/Calculadora permitidas)	0.2004	0.7995	0.159	0.841	OpA
+9	Si Z~N(0,1), ¿cuánto es P(Z<1.2)? (Tablas estadísticas/Calculadora permitidas)	0.8849	0.1151	0.5	0.8413	OpA
+9	Si Z~N(0,1), ¿cuánto es P(Z<-0.8)? (Tablas estadísticas/Calculadora permitidas)	0.2119	0.7881	0.5	0.8413	OpA

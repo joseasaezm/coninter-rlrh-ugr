@@ -8,9 +8,8 @@ Los materiales de este repositorio han sido elaborados en el marco del **Proyect
 
 - `Concurso_Estadistica/` — Carpeta que contiene los archivos necesarios para ejecutar el concurso interactivo:
   - `Concurso_Estadistica.pptm` — Presentación interactiva con el concurso.
-  - `Banco_Preguntas.txt` — Banco de preguntas en formato de texto delimitado por tabulaciones.
+  - `Banco_Preguntas.xlsx` — Banco de 270 preguntas tipo test de la asignatura, distribuidas en 9 niveles (30 preguntas por nivel), cada una con 4 opciones de respuesta e indicada la correcta.
   - `LEEME.txt` — Instrucciones detalladas de uso y requisitos para ejecutar correctamente el concurso.
-- `Banco_Preguntas.xlsx` — Banco de 270 preguntas tipo test de la asignatura, distribuidas en 9 niveles (30 preguntas por nivel), cada una con 4 opciones de respuesta e indicada la correcta.
 - `Presentacion.pdf` — Presentación informativa que explica las reglas, dinámica y puntuación del concurso.
 - `Registro_Participacion.pdf` — Hoja de registro de participación y resultados del concurso, para completar durante la actividad.
 

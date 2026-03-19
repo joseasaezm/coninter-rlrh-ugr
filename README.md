@@ -6,9 +6,24 @@ Los materiales de este repositorio han sido elaborados en el marco del **Proyect
 
 ## Materiales incluidos
 
+- `Concurso_Estadistica/` — Carpeta que contiene los archivos necesarios para ejecutar el concurso interactivo:
+  - `Concurso_Estadistica.pptm` — Presentación interactiva con el concurso.
+  - `Banco_Preguntas.txt` — Banco de preguntas en formato de texto delimitado por tabulaciones.
+  - `LEEME.txt` — Instrucciones detalladas de uso y requisitos para ejecutar correctamente el concurso.
 - `Banco_Preguntas.xlsx` — Banco de 270 preguntas tipo test de la asignatura, distribuidas en 9 niveles (30 preguntas por nivel), cada una con 4 opciones de respuesta e indicada la correcta.
 - `Presentacion.pdf` — Presentación informativa que explica las reglas, dinámica y puntuación del concurso.
 - `Registro_Participacion.pdf` — Hoja de registro de participación y resultados del concurso, para completar durante la actividad.
+
+## Cómo ejecutar el concurso
+
+1. Descarga el repositorio haciendo clic en el botón verde **Code** y luego en **Download ZIP**.
+2. Descomprime el contenido del archivo ZIP en tu equipo.
+3. Accede a la carpeta **Concurso_Estadistica** que contiene los archivos necesarios:
+   - `Concurso_Estadistica.pptm`
+   - `Banco_Preguntas.txt`
+   - `LEEME.txt`
+4. Antes de ejecutar por primera vez, **lee el archivo `LEEME.txt`** dentro de la carpeta para seguir las instrucciones iniciales (habilitación de macros, permisos de acceso, ubicación de archivos, etc.).
+5. Abre el archivo `Concurso_Estadistica.pptm` y sigue las instrucciones indicadas para habilitar macros y ejecutar la presentación de forma interactiva.
 
 ## Licencia
 

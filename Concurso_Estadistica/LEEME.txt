@@ -1,15 +1,19 @@
 INSTRUCCIONES DE USO - Concurso Interactivo de Estadística
 ==========================================================
 
-1. HABILITACIÓN DE MACROS
--------------------------
-Al abrir el archivo "Concurso_Estadistica.pptm", aparecerá un mensaje indicando que la presentación contiene macros.
-Es imprescindible pulsar "Habilitar macros" para que todas las funciones interactivas del concurso funcionen correctamente.
-
-2. UBICACIÓN DE ARCHIVOS
+1. UBICACIÓN DE ARCHIVOS
 ------------------------
 Los archivos "Concurso_Estadistica.pptm" y "Banco_Preguntas.txt" deben permanecer siempre en la misma carpeta.
 No se deben cambiar los nombres de los archivos ni su ubicación relativa, ya que la presentación depende de que estén juntos para cargar las preguntas correctamente.
+
+2. EJECUCIÓN DEL CONCURSO
+-------------------------
+- Para ejecutar el concurso, abrir el archivo "Concurso_Estadistica.pptm".
+- Aparecerá un mensaje indicando que la presentación contiene macros. Es imprescindible pulsar "Habilitar macros" para que todas las funciones interactivas del concurso funcionen correctamente.
+- Después, ir a Ver > Presentación con diapositivas.
+- La primera vez que se ejecute el concurso, pedirá conceder acceso al archivo "Banco_Preguntas.txt" y a la carpeta donde se encuentra el concurso ("Concurso_Estadistica").
+  - Pulsar "Seleccionar" y luego "Conceder acceso" a ambos.
+- La presentación funcionará de manera interactiva, mostrando preguntas, permitiendo seleccionar respuestas y resaltando la respuesta correcta automáticamente.
 
 3. SOBRE EL ARCHIVO Banco_Preguntas.txt
 ---------------------------------------
@@ -21,12 +25,7 @@ No se deben cambiar los nombres de los archivos ni su ubicación relativa, ya qu
   4. Asegurarse de que se guarde con el nombre exacto "Banco_Preguntas.txt".
 - IMPORTANTE: No modificar el orden de las columnas. La primera columna debe ser el nivel de la pregunta, la segunda el enunciado, las siguientes cuatro las opciones A-D y la sexta columna la respuesta correcta. Mantener este orden garantiza que las macros funcionen correctamente.
 
-4. EJECUCIÓN DEL CONCURSO
--------------------------
-Una vez habilitadas las macros y con ambos archivos en la misma carpeta, abrir "Concurso_Estadistica.pptm".
-La presentación funcionará de manera interactiva, mostrando preguntas, permitiendo seleccionar respuestas y resaltando la respuesta correcta automáticamente.
-
-5. NOTAS ADICIONALES
+4. NOTAS ADICIONALES
 --------------------
 - No se deben cambiar los nombres de las formas dentro de la presentación (OpA, OpB, OpC, OpD, etc.), ya que las macros dependen de ellos.
 - Para editar o añadir nuevas preguntas, siempre trabajar sobre "Banco_Preguntas.xlsx" y luego generar el nuevo .txt siguiendo las instrucciones del punto 3.

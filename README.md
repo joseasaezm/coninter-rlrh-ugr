@@ -19,9 +19,9 @@ Los materiales de este repositorio han sido elaborados en el marco del **Proyect
 2. Descomprime el contenido del archivo ZIP en tu equipo.
 3. Accede a la carpeta **Concurso_Estadistica** que contiene los archivos necesarios:
    - `Concurso_Estadistica.pptm`
-   - `Banco_Preguntas.txt`
+   - `Banco_Preguntas.xlsx`
    - `LEEME.txt`
-4. Antes de ejecutar por primera vez, **lee el archivo `LEEME.txt`** dentro de la carpeta para seguir las instrucciones iniciales (habilitación de macros, permisos de acceso, ubicación de archivos, etc.).
+4. Antes de ejecutar el concurso por primera vez, **lee el archivo `LEEME.txt`** dentro de la carpeta y sigue las instrucciones iniciales (creación del archivo de preguntas, habilitación de macros, concesión de permisos de acceso, etc.).
 5. Abre el archivo `Concurso_Estadistica.pptm` y sigue las instrucciones indicadas para habilitar macros y ejecutar la presentación de forma interactiva.
 
 ## Licencia

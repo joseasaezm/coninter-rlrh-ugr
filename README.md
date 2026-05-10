@@ -18,8 +18,7 @@ Descarga la versión preparada según tu sistema operativo:
 1. Descarga y descomprime el archivo correspondiente.
 2. Abre `Concurso_Estadistica.pptm`.
 3. Si aparece un aviso de seguridad, habilita macros.
-4. Inicia la presentación desde:
-   - Ver > Presentación con diapositivas
+4. Inicia la presentación desde: Ver > Presentación con diapositivas
 5. En la primera ejecución puede solicitar permisos de acceso al archivo de preguntas. Acepta cuando se solicite.
 
 ---

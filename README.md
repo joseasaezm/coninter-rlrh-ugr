@@ -9,13 +9,13 @@ Los materiales de este repositorio han sido elaborados en el marco del **Proyect
 ## Instrucciones
 
 1. Descarga el repositorio haciendo clic en el botón verde **Code** y luego en **Download ZIP**.
-2. Descomprime el contenido del archivo ZIP en tu equipo.
-3. Descomprime la versión preparada según tu sistema operativo:
-- **Windows**: `dist/Concurso_Windows.zip`
-- **macOS**: `dist/Concurso_macOS.zip`
-4. Abre `Concurso_Estadistica.pptm`.
+2. Descomprime el archivo descargado.
+3. Accede a la carpeta `dist/` correspondiente a tu sistema operativo:
+   - Windows: `dist/Concurso_Windows/`
+   - macOS: `dist/Concurso_macOS/`
+4. Abre el archivo `Concurso_Estadistica.pptm`.
 5. Si aparece un aviso de seguridad, habilita macros.
-6. Inicia la presentación desde: Ver > Presentación con diapositivas
+6. Inicia la presentación desde: Ver > Presentación con diapositivas.
 7. En la primera ejecución puede solicitar permisos de acceso al archivo de preguntas. Acepta cuando se solicite.
 
 ---

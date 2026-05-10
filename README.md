@@ -6,7 +6,7 @@ Los materiales de este repositorio han sido elaborados en el marco del **Proyect
 
 ---
 
-## Cómo usar el concurso
+## Uso del concurso
 
 Descarga la versión preparada según tu sistema operativo:
 
@@ -25,13 +25,13 @@ Descarga la versión preparada según tu sistema operativo:
 ---
 
 
-## Si se desea modificar el contenido
+## Material fuente
 
 El material editable se encuentra en la carpeta `source/`. Incluye:
 
-  - `Concurso_Estadistica.pptm` — Presentación interactiva con el concurso.
-  - `Banco_Preguntas.xlsx` — Banco de 270 preguntas distribuidas en 9 niveles.
-  - `LEEME.txt` — Instrucciones técnicas de generación del archivo de ejecución.
+- `Concurso_Estadistica.pptm` — Presentación interactiva del concurso.
+- `Banco_Preguntas.xlsx` — Banco de 270 preguntas distribuidas en 9 niveles.
+- `LEEME.txt` — Instrucciones técnicas para generar el archivo de ejecución.
 
 ---
 
@@ -40,11 +40,13 @@ El material editable se encuentra en la carpeta `source/`. Incluye:
 
 La carpeta `docs/` contiene:
 
-- `Presentacion.pdf` — Presentación informativa que explica las reglas, dinámica y puntuación del concurso.
-- `Registro_Participacion.pdf` — Hoja de registro de participación y resultados del concurso, para completar durante la actividad.
+- `Presentacion.pdf` — Presentación informativa sobre las reglas, dinámica y puntuación del concurso.
+- `Registro_Participacion.pdf` — Hoja de registro de participación y resultados.
 
 ---
 
 ## Licencia
 
-Todos los materiales están publicados bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**, lo que permite su uso, copia, distribución y adaptación siempre que se cite correctamente a los autores. Más información en: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Todos los materiales están publicados bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**, lo que permite su uso, copia, distribución y adaptación siempre que se cite correctamente a los autores.
+
+Más información en: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)

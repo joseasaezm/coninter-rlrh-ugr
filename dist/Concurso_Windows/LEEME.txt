@@ -1,0 +1,25 @@
+INSTRUCCIONES DE USO - Concurso Interactivo de Estadística
+==========================================================
+
+1. CONTENIDO
+------------
+Este paquete incluye:
+- Concurso_Estadistica.pptm
+- Banco_Preguntas.txt
+
+Ambos archivos deben permanecer en la misma carpeta.
+
+2. EJECUCIÓN DEL CONCURSO
+-------------------------
+- Abrir el archivo "Concurso_Estadistica.pptm".
+- Si aparece un aviso de seguridad, habilitar macros.
+- Iniciar la presentación desde:
+  Ver > Presentación con diapositivas.
+- La primera vez puede solicitar permisos de acceso al archivo de preguntas o a la carpeta del concurso.
+  Aceptar o conceder acceso cuando se solicite.
+
+3. NOTAS IMPORTANTES
+--------------------
+- No cambiar nombres de archivos.
+- No mover los archivos fuera de la carpeta.
+- No modificar los elementos interactivos de la presentación.
